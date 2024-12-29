@@ -49,3 +49,7 @@ This is the ReactJS version of the project **"Where in the World"**, which fetch
 * **REST API**: For fetching country data dynamically.
 
 * **JavaScript ES6+**: For writing modern and clean code.
+
+---
+
+**Live URL**: *https://countries-of-planet.netlify.app/*
